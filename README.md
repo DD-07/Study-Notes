@@ -28,7 +28,7 @@ I reall hope procrastination has been eliminated by the tenth time I'm editing t
 
 :D
 
-![Just a pic for fun][logo]
+![Alt text][logo]
 
-[logo]: https://github.com/DD-07/Study-Notes/master/idk.png ":D"
+[logo]: https://github.com/DD-07/Study-Notes/master/src/downloads/idk.png ":D"
 
