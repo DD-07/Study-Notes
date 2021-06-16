@@ -28,4 +28,7 @@ I reall hope procrastination has been eliminated by the tenth time I'm editing t
 
 :D
 
+![alt text][logo]
+
+[logo]: https://github.com/DD-07/Study-Notes/raw/master/src/common/images/icon48.png "Logo Title Text 2"
 
