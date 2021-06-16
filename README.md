@@ -24,7 +24,8 @@ I will be trying to make my own Productivity app - but due to a busy schedule I 
 
 I reall hope procrastination has been eliminated by the tenth time I'm editing this repo.
 
-*Jiayou didi/DD/D1D1/DDWent/King Dedede
+*Jiayou didi / DD/ D1D1 / DDWent / King Dedede
 
 :D
+
 
